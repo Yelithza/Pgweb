@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+    font-family: 'Kaushan Script', cursive;
+    margin: 0px;
+    background-color: #d64eff;
+}
+
+h1 {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 40px;
+    color: #ffa9a9;
+    font-weight: 600;
+    letter-spacing: -2px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 32px;
+    color: #ffbbbb;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+.cabecera img {
+    margin: 0px 0px;
+    width: 1348px;
+    height: 200px;
+}
+
+.cuerpo {
+    max-width: 1100px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenido {
+    float: left;
+    width: 65%;
+}
+
+div.contenido img {
+    width: 90%;
+}
+
+.barra-lateral {
+    padding-top: 40px;
+    float: right;
+    width: 30%;
+}
+
+.barra-lateral h3 {
+    color: #97f58f;
+    text-align: center;
+    border-bottom: 1px solid #aaffaa;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+
+.pie {
+    clear: both;
+    color: rgb(0, 225, 255);
+    background-color: #770000;
+    min-height: 100px;
+    padding: 9px;
+    text-align: center;
+}
